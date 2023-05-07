@@ -6,4 +6,4 @@
 
 ・使用ライブラリ関係
 Java
-LWJGL3
+LWJGL3 3.3.2
